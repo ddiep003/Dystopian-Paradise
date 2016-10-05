@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: d34edfe899412e14fb556ec975b69ba7
+timeCreated: 1463790237
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Upper Leg (L)
+    21300002: Body
+    21300004: Upper Leg (R)
+    21300006: Lower Leg (L)
+    21300008: Ball Joint (L)
+    21300010: Ball Joint (R)
+    21300012: Parent
+    21300014: Lower Leg (R)
+    21300016: Foot (L)
+    21300018: Foot (R)
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Upper Leg (L)
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 453
+        width: 23
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 478
+        width: 283
+        height: 268
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Upper Leg (R)
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 453
+        width: 23
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lower Leg (L)
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 258
+        width: 23
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ball Joint (L)
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 386
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ball Joint (R)
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 390
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Parent
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lower Leg (R)
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 250
+        width: 23
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Foot (L)
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 41
+        width: 140
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Foot (R)
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 36
+        width: 140
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
